@@ -132,7 +132,7 @@ Esta guía explica cómo empaquetar y ejecutar la aplicación ORMD utilizando Do
 4. **Acceder a la Aplicación**:
    Una vez que veas mensajes indicando que la aplicación está corriendo, abre tu navegador web y visita:
    
-   [http://localhost:8000](http://localhost:8000)
+   [http://localhost:8080](http://localhost:8080)
 
 ## Solución de Problemas comunes
 
@@ -145,12 +145,17 @@ Para detener la aplicación, presiona `Ctrl + C` en la terminal donde se está e
 ```bash
 docker-compose down
 ```
+## Instrucciones de prueba
+   Al ejecutar el programa, se debe iniciar sesión con el usuario `admin` y la contraseña `admin123`
+   Los documentos de prueba se encuentran en el siguiente directorio `prueba_archivos`
+
 ## Instrucciones de Instalación para instalación en Windows
 
 1. **Clonar el Repositorio**:
    ```bash
    git clone https://github.com/YonyVilca/ormd2.1.git
-   cd ormd2.1   ```
+   cd ormd2.1   
+   ```
 
 2. **Configurar Credenciales**:
    > ⚠️ **IMPORTANTE**: El archivo de credenciales `ormd-476617-56cca3f6e4a6.json` **NO** está incluido en el repositorio por seguridad.
