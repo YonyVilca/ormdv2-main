@@ -1,0 +1,22 @@
+ASUNTO: Informe de búsqueda
+FECHA: 2025-11-22
+RESULTADO: POSITIVO
+
+CONTEXTO DE BÚSQUEDA
+- Consulta: ''
+- Coincidencias: 0
+
+DATOS DEL CIUDADANO
+- ID: 6
+- DNI: 00077665419
+- LM: -
+- NOMBRE: PANDAL TARICUARIMA, JHON HELBERTH
+- PRESTÓ SERVICIO: SI
+
+DOCUMENTOS (1):
+  • #6 - IMG_20251009_0023.pdf
+
+SERVICIO MILITAR:
+  Clase: 2018  •  Libro: -  •  Folio: -
+  Ref. Origen: -
+  Fechas: Alta 2025-03-31  •  Baja -

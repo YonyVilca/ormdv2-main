@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - FLET_MODE=web
+      - DATABASE_URL=postgresql://neondb_owner:npg_3nCOGtq1FrNE@ep-lucky-shape-ahe4v22o-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require
+      - SECRET_KEY=282090
+      - FLET_SECRET_KEY=282090
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/ormd-476617-56cca3f6e4a6.json
+    volumes:
+      - ./uploads:/app/uploads
+      - ./storage:/app/storage
+      - ./database:/app/database
+    restart: unless-stopped

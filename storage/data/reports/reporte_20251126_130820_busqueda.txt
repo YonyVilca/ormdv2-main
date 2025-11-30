@@ -1,0 +1,10 @@
+ASUNTO: Informe de búsqueda
+FECHA: 26/11/2025
+RESULTADO: NEGATIVO
+
+CONTEXTO DE BÚSQUEDA
+- Consulta: ''
+- Coincidencias: 0
+
+RESULTADO SIN COINCIDENCIAS / CARGA MANUAL
+- (Sin datos manuales proporcionados)

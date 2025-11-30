@@ -1,0 +1,11 @@
+ts,id_usuario,usuario,rol,accion,query,resultados,id_ciudadano,dni,lm,apellidos,nombres
+2025-11-10T12:55:35.323805,1,admin,Administrador,consulta_ciudadano,,,3,00081178062,,GUEVARA ASIPALI,FRANK JAIR
+2025-11-10T12:57:36.825760,4,Consultor,Consulta,consulta_ciudadano,,,3,00081178062,,GUEVARA ASIPALI,FRANK JAIR
+2025-11-10T12:57:53.475254,4,Consultor,Consulta,consulta_ciudadano,,,7,12456789,,ROMERO COROPUNA,CASIMIRO
+2025-11-10T13:25:29.826756,1,admin,Administrador,consulta_ciudadano,,,3,00081178062,,GUEVARA ASIPALI,FRANK JAIR
+2025-11-10T13:26:04.893503,4,Consultor,Consulta,busqueda,CA,2,,,,,
+2025-11-10T13:26:06.160709,4,Consultor,Consulta,consulta_ciudadano,,,7,12456789,,ROMERO COROPUNA,CASIMIRO
+2025-11-10T13:26:28.445439,4,Consultor,Consulta,consulta_ciudadano,,,7,12456789,,ROMERO COROPUNA,CASIMIRO
+2025-11-10T13:28:32.618978,1,admin,Administrador,consulta_ciudadano,,,3,00081178062,,GUEVARA ASIPALI,FRANK JAIR
+2025-11-10T13:28:43.033009,1,admin,Administrador,consulta_ciudadano,,,3,00081178062,,GUEVARA ASIPALI,FRANK JAIR
+2025-11-10T13:28:55.360007,1,admin,Administrador,consulta_ciudadano,,,3,00081178062,,GUEVARA ASIPALI,FRANK JAIR
